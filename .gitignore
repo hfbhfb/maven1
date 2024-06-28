@@ -1,0 +1,67 @@
+# 编译的 class 文件
+*.class
+
+*.exe
+
+# 打包的 jar 文件
+*.jar
+
+# 打包的 war 文件
+*.war
+
+# 忽略所有日志文件
+*.log
+
+# 忽略所有临时文件
+*.tmp
+*.temp
+
+# 忽略 IDE 相关的文件和目录
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.swp
+
+# VS Code
+.vscode/
+
+# 忽略 Maven 目标目录
+target/
+
+# 忽略 Gradle 构建目录
+build/
+
+# 忽略 Gradle Wrapper 可执行文件
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# 忽略本地环境配置文件
+*.env
+*.local
+
+# 忽略操作系统文件
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
