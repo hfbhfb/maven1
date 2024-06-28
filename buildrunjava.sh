@@ -2,6 +2,9 @@
 
 cd maventest1
 
-mvn test
+#mvn test
+
+mvn compile
+mvn exec:java
 
 #exit
