@@ -26,3 +26,19 @@
 cd /d/work2/apache-maven-3.9.8
 code .
 
+
+
+
+
+
+
+#### maven阿里源
+https://developer.aliyun.com/mvn/guide
+
+#### maven华为源 **推荐**
+https://mirrors.huaweicloud.com/mirrorDetail/5ea0025f2ab89b484a4dd5ce?mirrorName=maven&catalog=language
+
+
+
+
+
