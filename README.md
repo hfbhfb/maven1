@@ -11,6 +11,12 @@
 
 
 
+## 目录说明
+1. maventest1  （手动创建相应的文件）
+2. maventest2   (mvn 运用架构自动配置框架项目)  详情搜索 7768xnxn
+mvn archetype:generate -DgroupId=com.hfbhfb -DartifactId=maventest2 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
 ## maven基础概念
 
 - 仓库
@@ -28,7 +34,19 @@ code .
 
 
 
+## 基本操作
+```sh
+mvn compile # 编译
 
+mvn clean # 清理
+
+mvn test # 测试
+
+mvn package # 打包
+
+mvn install # 安装到本地仓库
+
+```
 
 
 

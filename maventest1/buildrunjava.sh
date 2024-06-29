@@ -1,6 +1,6 @@
 
 
-cd maventest1
+#cd maventest1
 
 #mvn test
 
